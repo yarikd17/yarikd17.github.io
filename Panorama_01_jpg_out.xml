@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2020:11:19 11:21:57" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Гостинная" target="" pan="-5.32903" skinid="1" url="{node2}" id="Point01" tilt="-10.4133"/>
+      <hotspot title="Кухня" target="" pan="-43.7886" skinid="" url="{node3}" id="Point02" tilt="-6.78148"/>
+      <hotspot title="Спальня" target="" pan="29.3209" skinid="" url="{node4}" id="Point03" tilt="-3.46581"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Panorama_01_jpg_o_0.jpg" tile5url="images/Panorama_01_jpg_o_5.jpg" tilesize="3500" tile4url="images/Panorama_01_jpg_o_4.jpg" tile3url="images/Panorama_01_jpg_o_3.jpg" tilescale="1.002857142857143" tile2url="images/Panorama_01_jpg_o_2.jpg" tile1url="images/Panorama_01_jpg_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2020:11:18 11:20:51" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Кухня" target="" pan="-80.895" skinid="" url="{node3}" id="Point01" tilt="-1.79109"/>
+      <hotspot title="Спальня" target="" pan="70.0279" skinid="" url="{node4}" id="Point02" tilt="-2.93104"/>
+      <hotspot title="Прихожая" target="" pan="173.624" skinid="" url="{node1}" id="Point03" tilt="-6.95226"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Panorama_02_jpg_o_0.jpg" tile5url="images/Panorama_02_jpg_o_5.jpg" tilesize="3500" tile4url="images/Panorama_02_jpg_o_4.jpg" tile3url="images/Panorama_02_jpg_o_3.jpg" tilescale="1.002857142857143" tile2url="images/Panorama_02_jpg_o_2.jpg" tile1url="images/Panorama_02_jpg_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2020:11:19 11:21:57" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Гостинная" target="" pan="88.4067" skinid="" url="{node2}" id="Point01" tilt="-17.481"/>
+      <hotspot title="Спальня" target="" pan="89.5958" skinid="" url="{node4}" id="Point02" tilt="0.0167408"/>
+      <hotspot title="Прихожая" target="" pan="141.843" skinid="" url="{node1}" id="Point03" tilt="-2.28806"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Panorama_03_o_0.jpg" tile5url="images/Panorama_03_o_5.jpg" tilesize="3500" tile4url="images/Panorama_03_o_4.jpg" tile3url="images/Panorama_03_o_3.jpg" tilescale="1.002857142857143" tile2url="images/Panorama_03_o_2.jpg" tile1url="images/Panorama_03_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2020:11:19 11:21:57" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Гостинная" target="" pan="-90.5064" skinid="" url="{node2}" id="Point01" tilt="-11.5169"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Panorama_04_jpeg_o_0.jpg" tile5url="images/Panorama_04_jpeg_o_5.jpg" tilesize="3500" tile4url="images/Panorama_04_jpeg_o_4.jpg" tile3url="images/Panorama_04_jpeg_o_3.jpg" tilescale="1.002857142857143" tile2url="images/Panorama_04_jpeg_o_2.jpg" tile1url="images/Panorama_04_jpeg_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
